@@ -5,6 +5,7 @@ The script creates a folder called Exploratory_Data_Analysis_Project1 on the cur
 where the data will be downloaded and unzipped and where the plots will be saved.
 
 To run the scripts on R:
+
 source("plot1.R")
 
 source("plot2.R")
